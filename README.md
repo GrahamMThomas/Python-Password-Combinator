@@ -4,6 +4,7 @@ Wrote a very simple program in python that generates possible passwords if you k
 
 EXAMPLE:
 python password_combinator.py --word ham --file wordlist.txt --num 1
+
 ham
 
 ham0
